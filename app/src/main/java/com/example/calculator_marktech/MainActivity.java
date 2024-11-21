@@ -117,5 +117,5 @@ public class MainActivity extends AppCompatActivity {
         value = -value;
         txtDisplay.setText(String.valueOf(value));
     }
-//Some extra task that we will revert
+
 }
